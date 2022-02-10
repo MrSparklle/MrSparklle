@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### 🚀 About me
 
@@ -8,6 +8,9 @@ I'm Joel Darós, a 20+ years experienced Front End Software Engineer specializin
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2??style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-darós-95536a21/?locale=en_US "Check my Resume at Linkedin")
 [![GMail](https://img.shields.io/badge/Contact_me-EMail-EA4335??style=flat-square&logo=gmail&logoColor=white)](mailto:joel.daros@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025??style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9500119/joel "My profile at Stack Overflow")
+
+---
 
 ### 🏅 Qualifications
 
@@ -61,9 +64,13 @@ I'm Joel Darós, a 20+ years experienced Front End Software Engineer specializin
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-## Unit Tests
+### Unit Tests
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=ffffff)
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsparklle&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) -->
 
