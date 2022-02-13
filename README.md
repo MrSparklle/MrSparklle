@@ -2,7 +2,7 @@
 
 ### 🚀 About me
 
-I'm Joel Darós, a 20+ years experienced Front End Software Engineer specializing in JS/TS applications using modern frameworks like React and Angular. I eventually also works as backend using JS/TS technologies like Node.js (Express/Jest).
+I'm Joel Darós, a 20+ years experienced Front End Software Engineer specializing in JS/TS applications using modern frameworks like React and Angular. I eventually also works as backend using JS/TS technologies like Node.js (Express/Nest.js).
 
 ☎️ Do you want to talk or known more about me:
 
