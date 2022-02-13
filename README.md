@@ -14,7 +14,7 @@ I'm Joel Darós, a 20+ years experienced Front End Software Engineer specializin
 
 ### 🏅 Qualifications
 
-• In last 7 years I had specialized as frontend engineer through the use of frameworks aimed at web projects and mobile devices using technologies such as Angular, React (Next.js), Ionic, React Native and Node.js (Nest.js and Express). During my career I acquired solid knowledge in projects using frontend technologies such as HTML5, CSS, SASS, Typescript, Javascript, generation of static content using Server-Side Rendering (SSR) and Static Site Generation (SSG).
+• In last 7 years I specialized as frontend engineer through the use of frameworks aimed at web projects and mobile devices using technologies such as Angular, React (Next.js), Ionic, React Native and Node.js (Nest.js and Express). During my career I acquired solid knowledge in projects using frontend technologies such as HTML5, CSS, SASS, Typescript, Javascript, generation of static content using Server-Side Rendering (SSR) and Static Site Generation (SSG).
 
 • Experience collaborating in a quality-focused environment where testing and code reviewing is a part of the everyday process. I always prioritize writing clean, well-documented code following SOLID principles.
 
